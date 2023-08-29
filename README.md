@@ -9,6 +9,10 @@ The project is requiring only a few changes and new features. This includes crea
 - Contact []
 - About [] (requiring modification)
 - Item cards [] (needing more specific details)
+### New sections in the home page
+- Where we operate
+- Basic about us
+- General Supply of Ships
 
 ## Company Information
 - Number of clients served: [Insert number here]
